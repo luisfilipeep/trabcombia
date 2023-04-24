@@ -1,0 +1,19 @@
+body {
+background-color: darkred;
+color: white;
+text-align: center;
+padding: 7%;
+
+
+
+
+}
+
+footer {
+color: rgb(0, 0, 0);
+height: 6%;
+width: 86%;
+background-color: white;
+position: absolute;
+bottom: 0%;
+}
